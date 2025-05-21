@@ -1,4 +1,3 @@
-# 👋 Hi, I'm 140218491
 
 ### Languages & Frameworks
 
