@@ -1,4 +1,3 @@
-
 ### Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -31,3 +30,9 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+### Tools & Utilities
+
+![Elementor](https://img.shields.io/badge/-Elementor-20A0FF?style=for-the-badge&logo=elementor&logoColor=white)
+![FileZilla](https://img.shields.io/badge/-FileZilla-EB3223?style=for-the-badge&logo=filezilla&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/-MobaXterm-1E1E1E?style=for-the-badge&logo=terminal&logoColor=white)
