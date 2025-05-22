@@ -2,9 +2,6 @@
   <kbd><img src="https://images.steamusercontent.com/ugc/843712213991769944/4B1E63487C7389B48DA1300952D961030066BCE7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" alt="Banner Image"></kbd>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=140218491)](https://git.io/typing-svg)
-
 ## Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
