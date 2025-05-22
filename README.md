@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=140218491)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=140218491)](https://git.io/typing-svg)
 
-<h3 style="color:#00BFFF">Languages & Frameworks</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&repeat=false&width=435&lines=Languages+%26+Frameworks)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-<h3 style="color:#00BFFF">Databases & CMS</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&repeat=false&width=435&lines=Databases+%26+CMS)](https://git.io/typing-svg)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 style="color:#00BFFF">Tools & Utilities</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&repeat=false&width=435&lines=Tools+%26+Utilities)](https://git.io/typing-svg)
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,7 +52,7 @@
 
 ---
 
-<h3 style="color:#00BFFF">Operating Systems</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&repeat=false&width=435&lines=Operating+Systems)](https://git.io/typing-svg)
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
