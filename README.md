@@ -1,4 +1,4 @@
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=140218491)](https://git.io/streak-stats)
 ### Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
