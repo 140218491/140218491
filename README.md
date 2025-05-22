@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&width=435&lines=140218491" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=140218491)](https://git.io/typing-svg)
 
-<!-- LANGUAGES & FRAMEWORKS -->
-![Header](https://img.shields.io/badge/-Languages%20&%20Frameworks-00CFFF?style=for-the-badge)
+<h3 style="color:#00BFFF">Languages & Frameworks</h3>
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)
@@ -26,8 +23,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- DATABASES -->
-![Header](https://img.shields.io/badge/-Databases%20&%20CMS-00CFFF?style=for-the-badge)
+---
+
+<h3 style="color:#00BFFF">Databases & CMS</h3>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,8 +33,9 @@
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F89500?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<!-- TOOLS -->
-![Header](https://img.shields.io/badge/-Tools%20&%20Utilities-00CFFF?style=for-the-badge)
+---
+
+<h3 style="color:#00BFFF">Tools & Utilities</h3>
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -51,8 +50,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Nucleo](https://img.shields.io/badge/-STM32%20Nucleo-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-<!-- OPERATING SYSTEMS -->
-![Header](https://img.shields.io/badge/-Operating%20Systems-00CFFF?style=for-the-badge)
+---
+
+<h3 style="color:#00BFFF">Operating Systems</h3>
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -60,17 +60,4 @@
 
 ---
 
-<!-- STATS SECTION -->
-![Header](https://img.shields.io/badge/-GitHub%20Stats-00CFFF?style=for-the-badge)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=140218491&theme=tokyonight&background=00000000)](https://git.io/streak-stats)
-
-[![Top Langs Light Blue](https://github-readme-stats.vercel.app/api/top-langs/?username=140218491&layout=compact&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs Black](https://github-readme-stats.vercel.app/api/top-langs/?username=140218491&layout=compact&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=140218491&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=140218491&theme=onestar&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=140218491&style=flat-square&color=00CFFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=140218491&theme=black-ice)](https://git.io/streak-stats)
