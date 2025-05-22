@@ -50,4 +50,4 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=140218491&theme=highcontrast&short_numbers=true&background=45%2CCB83EB%2CEBEBEB&border=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=D926EB&ring=EBEBEB&fire=EBEBEB&sideLabels=E632EB&sideNums=EB26DD&dates=EBEBEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=140218491&theme=dark)](https://git.io/streak-stats)
