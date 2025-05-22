@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=140218491)](https://git.io/typing-svg)
+
 ### Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -19,6 +20,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -42,6 +45,10 @@
 ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-EB4925?style=for-the-badge&logo=filezilla&logoColor=white)
 ![MobaXterm](https://img.shields.io/badge/-MobaXterm-1E1E1E?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Nucleo](https://img.shields.io/badge/-STM32%20Nucleo-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ---
 
