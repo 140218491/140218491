@@ -58,4 +58,4 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=140218491&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=140218491&theme=black-ice)](https://git.io/streak-stats)
