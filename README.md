@@ -23,8 +23,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
 ## Databases & CMS
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,8 +30,6 @@
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-1066A3?style=for-the-badge&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F89500?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
 
 ## Tools & Utilities
 
@@ -50,14 +46,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Nucleo](https://img.shields.io/badge/-STM32%20Nucleo-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
----
-
 ## Operating Systems
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=140218491&theme=black-ice)](https://git.io/streak-stats)
