@@ -1,6 +1,5 @@
 <p align="center">
-  <kbd><img src="" width="800" alt="Banner Image"></kbd>
-</p>
+  <kbd><img src="https://images.steamusercontent.com/ugc/843712213991769944/4B1E63487C7389B48DA1300952D961030066BCE7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" alt="Banner Image"></kbd></p>
 
 ## Languages & Frameworks
 
