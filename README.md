@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWttb3Z1bmdvNW41ZXNwMzBrcHB5bzlncWdpaHFjaDk4bjhhbnBnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pH5EjkM3brgpr4wu57/giphy.gif" width="800" alt="Banner Image"></kbd>
+  <kbd><img src="" width="800" alt="Banner Image"></kbd>
 </p>
 
 ## Languages & Frameworks
