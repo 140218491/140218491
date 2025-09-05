@@ -1,5 +1,4 @@
 <p align="center">
-  <kbd><img src="https://i.pinimg.com/originals/fd/6b/4d/fd6b4d1796567de80ca05d9d542b3f40.gif" width="800" alt="Banner Image"></kbd></p>
 
 ## Languages & Frameworks
 
