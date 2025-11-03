@@ -34,6 +34,8 @@
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-1066A3?style=for-the-badge&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-F89500?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![XenForo](https://img.shields.io/badge/-XenForo-002A5C?style=for-the-badge&logo=discourse&logoColor=white)
+![Invision Community](https://img.shields.io/badge/-Invision%20Community-1E4E79?style=for-the-badge&logo=icloud&logoColor=white)
 
 ## Tools & Utilities
 
