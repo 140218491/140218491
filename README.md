@@ -37,6 +37,17 @@
 ![XenForo](https://img.shields.io/badge/-XenForo-002A5C?style=for-the-badge&logo=discourse&logoColor=white)
 ![Invision Community](https://img.shields.io/badge/-Invision%20Community-1E4E79?style=for-the-badge&logo=icloud&logoColor=white)
 
+## Reverse Tools 
+
+[![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-323232?style=for-the-badge&logo=hexo&logoColor=white)](https://hex-rays.com/ida-pro/)
+[![Cheat Engine](https://img.shields.io/badge/-Cheat%20Engine-3A3A3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheat-engine/cheat-engine)
+[![ReClass.NET](https://img.shields.io/badge/-ReClass.NET-2D2D2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReClassNET/ReClass.NET)
+[![HxD](https://img.shields.io/badge/-HxD-800000?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://mh-nexus.de/hxd/)
+[![x64dbg](https://img.shields.io/badge/-x64dbg-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x64dbg/x64dbg)
+[![x86dbg](https://img.shields.io/badge/-x86dbg-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x64dbg/x64dbg)
+[![Procmon](https://img.shields.io/badge/-Procmon-0066CC?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/ProcMon-for-Linux)
+[![CFF Explorer](https://img.shields.io/badge/-CFF%20Explorer-004080?style=for-the-badge&logo=windows&logoColor=white)](https://ntcore.com/explorer-suite/)
+
 ## Tools & Utilities
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
