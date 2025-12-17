@@ -1,7 +1,8 @@
 <p align="center">
 
 
-https://media1.tenor.com/m/6_Xb5hQuD1kAAAAd/call-of-duty-call-of-duty-black-ops.gif
+![Uploading call-of-duty-call-of-duty-black-ops.gif…]()
+
 
 
 ## Languages & Frameworks
