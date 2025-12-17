@@ -1,11 +1,5 @@
 <p align="center">
 
-
-![Call Of Duty Black Ops GIF]([https://tenor.com/nl/view/call-of-duty-call-of-duty-black-ops-black-ops-mason-woods-man-gif-22994904](https://media1.tenor.com/m/6_Xb5hQuD1kAAAAd/call-of-duty-call-of-duty-black-ops.gif))
-
-
-
-
 ## Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
