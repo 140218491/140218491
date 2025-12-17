@@ -1,7 +1,8 @@
 <p align="center">
 
 
-![Uploading call-of-duty-call-of-duty-black-ops.gif…]()
+![Call Of Duty Black Ops GIF](https://tenor.com/nl/view/call-of-duty-call-of-duty-black-ops-black-ops-mason-woods-man-gif-22994904)
+
 
 
 
