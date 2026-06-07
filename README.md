@@ -24,6 +24,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+## Databases & CMS
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-1066A3?style=flat)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89500?style=flat&logo=phpmyadmin&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![XenForo](https://img.shields.io/badge/XenForo-002A5C?style=flat)
+![Invision Community](https://img.shields.io/badge/Invision%20Community-1E4E79?style=flat)
+
 ## Reverse Engineering & Low-Level Tools
 
 [![IDA Pro](https://img.shields.io/badge/IDA%20Pro-323232?style=flat)](https://hex-rays.com/ida-pro/)
@@ -34,3 +44,29 @@
 [![x86dbg](https://img.shields.io/badge/x86dbg-0A0A0A?style=flat)](https://github.com/x64dbg/x64dbg)
 [![Procmon](https://img.shields.io/badge/Procmon-0066CC?style=flat)](https://github.com/microsoft/ProcMon-for-Linux)
 [![CFF Explorer](https://img.shields.io/badge/CFF%20Explorer-004080?style=flat)](https://ntcore.com/explorer-suite/)
+
+## Tools & Utilities
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-1E1E1E?style=flat)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![STM32 Nucleo](https://img.shields.io/badge/STM32%20Nucleo-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+
+## Operating Systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=140218491&theme=tokyonight&hide_border=true&border_radius=6)](https://git.io/streak-stats)
